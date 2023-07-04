@@ -9,7 +9,7 @@ spec:
   sourceFormat: unstructured
   git:
     repo: https://github.com/himanigulati-test/acm-test-repo
-    branch: init
+    branch: main
     dir: config-sync/root/root2
     auth: none
     period: 30s
